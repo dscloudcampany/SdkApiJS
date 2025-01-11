@@ -6,16 +6,6 @@
 
 <p align="center">A NodeJS SDK for interacting with the <a href="https://dscloud.pt" target="_blank">DSCloud</a> API, currently in BETA TEST.</p>
 
-<div align="center">
-  <div style="width: fit-content; display: flex; align-items: flex-start; gap: 4px;">
-    <img alt="NPM License" src="https://img.shields.io/npm/l/@dscloud/sdkapi">
-    <img alt="NPM Downloads" src="https://img.shields.io/npm/dw/@dscloud/sdkapi">
-    <a href="https://npmjs.com/package/@dscloud/sdkapi">
-      <img alt="NPM Version" src="https://img.shields.io/npm/v/@dscloud/sdkapi">
-    </a>
-  </div>
-</div>
-
 ## Installation
 
 ```bash
