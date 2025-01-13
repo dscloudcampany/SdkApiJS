@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="DSCloud Banner" src="https://imgur.com/u8CeAlu.png">
+  <img alt="DSCloud Banner" src="https://imgur.com/TcqTgsH.png">
 </div>
 
 <h1 align="center">@dscloud/sdkapi</h1>
