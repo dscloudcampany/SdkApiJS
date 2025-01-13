@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="DSCloud Banner" src="https://mintlify.s3.us-west-1.amazonaws.com/dscloud/logo/services/database-banner.png">
+  <img alt="DSCloud Banner" src="https://imgur.com/u8CeAlu">
 </div>
 
 <h1 align="center">@dscloud/sdkapi</h1>
