@@ -1,0 +1,28 @@
+{
+  "name": "@dscloud/sdkapi",
+  "version": "2.0.0",
+  "description": "SDK oficial NodeJS / TypeScript para a API DSCloud (PaaS Hosting)",
+  "main": "src/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "dscloud",
+    "cloud",
+    "paas",
+    "hosting",
+    "pterodactyl",
+    "sdk",
+    "api"
+  ],
+  "author": "dscloudcampany",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "form-data": "^4.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
